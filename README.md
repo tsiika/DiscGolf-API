@@ -17,5 +17,7 @@ List of contributor of this project:
 ## Installation and running development server
 - (Install nodejs and npm)
 - clone repository
-- 'npm init'
-- 'npm start'
+- >'npm install'
+- >'npm start'
+- To watch code changes with nodemon, run:
+- >'npm run watch'
