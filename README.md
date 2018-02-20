@@ -18,4 +18,4 @@ List of contributor of this project:
 - (Install nodejs and npm)
 - clone repository
 - 'npm init'
-- 'node app.js'
+- 'npm start'
