@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/svihila/DiscGolf-API/issues"
   },
-  "homepage": "https://github.com/svihila/DiscGolf-API#readme"
+  "homepage": "https://github.com/svihila/DiscGolf-API#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
