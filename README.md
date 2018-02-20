@@ -1,4 +1,4 @@
-# DiscGolf-BackEnd
+# DiscGolf-API (working title)
 NodeJS-Express-MongoDB-api for managing disc golf statistics.
 
 # About
