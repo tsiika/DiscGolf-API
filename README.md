@@ -1,6 +1,9 @@
 # DiscGolf-API (working title)
 NodeJS-Express-MongoDB-api for managing disc golf statistics.
 
+Client app can be found here:
+https://github.com/tsiika/DiscGolf-FrontEnd
+
 # About
 This project is part of full-stack developer course by Opiframe Oy. During this course students are creating their own projects and this is ours!
 
