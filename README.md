@@ -1,7 +1,7 @@
 # DiscGolf-BackEnd
 NodeJS-Express-MongoDB-api for managing disc golf statisctics.
 
-#About
+# About
 This project is part of full-stack developer course by Opiframe Oy. During this course students are creating their own projects and this is ours!
 
 # Contributors
